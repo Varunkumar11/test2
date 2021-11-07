@@ -244,3 +244,4 @@ if len(user_string)>=2:
     print(n*user_string[:2])
 else:
     print(n*user_string)
+#change
